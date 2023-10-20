@@ -1,6 +1,6 @@
 # Security Policy
 
-The Jenkins project takes security seriously.
+The Jenkins project takes security very seriously.
 We make every possible effort to ensure users can adequately secure their automation infrastructure.
 
 You can find more information in the [general Security Policy](https://github.com/jenkinsci/.github/blob/master/SECURITY.md), this policy is specific to our Docker images.
